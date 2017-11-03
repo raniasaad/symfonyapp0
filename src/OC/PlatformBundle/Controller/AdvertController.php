@@ -28,13 +28,13 @@ class AdvertController extends Controller
     // Notre liste d'annonce en dur
     $listAdverts = array(
       array(
-        'title'   => 'Recherche développpeur Symfony',
+        'title'   => 'Recherche développpeur junior Symfony ',
         'id'      => 1,
         'author'  => 'Alexandre',
         'content' => 'Nous recherchons un développeur Symfony débutant sur Lyon. Blabla…',
         'date'    => new \Datetime()),
       array(
-        'title'   => 'Mission de webmaster',
+        'title'   => 'Mission de webmaster senior',
         'id'      => 2,
         'author'  => 'Hugo',
         'content' => 'Nous recherchons un webmaster capable de maintenir notre site internet. Blabla…',
