@@ -28,7 +28,7 @@ class AdvertController extends Controller
     // Notre liste d'annonce en dur
     $listAdverts = array(
       array(
-        'title'   => 'Recherche développpeur junior Symfony ran 9:48',
+        'title'   => 'Recherche développpeur junior Symfony ',
         'id'      => 1,
         'author'  => 'Alexandre',
         'content' => 'Nous recherchons un développeur Symfony débutant sur Lyon. Blabla…',
@@ -40,7 +40,7 @@ class AdvertController extends Controller
         'content' => 'Nous recherchons un webmaster capable de maintenir notre site internet. Blabla…',
         'date'    => new \Datetime()),
       array(
-        'title'   => 'Offre de stage webdesigner',
+        'title'   => 'Offre de stage webdesigner expert 2',
         'id'      => 3,
         'author'  => 'Mathieu',
         'content' => 'Nous proposons un poste pour webdesigner. Blabla…',
