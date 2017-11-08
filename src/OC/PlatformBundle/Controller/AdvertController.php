@@ -138,7 +138,7 @@ public function viewAction($id)
     // … reste de la méthode
  
     if ($request->isMethod('POST')) {
-      $request->getSession()->getFlashBag()->add('notice', 'Annonce bien modifiée.');
+      $request->getSession()->getFlashBag()->add('notice', 'Annonce bien modifiée 8 november.');
 
       return $this->redirectToRoute('oc_platform_view', array('id' => 5));
     }
