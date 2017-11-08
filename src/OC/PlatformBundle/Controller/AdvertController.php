@@ -43,7 +43,7 @@ class AdvertController extends Controller
         'title'   => 'Offre de stage webdesigner expert 2',
         'id'      => 3,
         'author'  => 'Mathieu',
-        'content' => 'Nous proposons un poste pour webdesigner. Blabla…',
+        'content' => 'Nous proposons un poste pour webdesigner. Blabla… edited from local ran 8 nov 11h',
         'date'    => new \Datetime())
     );
 
